@@ -1,4 +1,4 @@
-# DataMining-Assignment-3
+# Anomaly Detection with Generative Adversarial Network (GAN) using TensorFlow/Keras
 This repository contains code for anomaly detection using a Generative Adversarial Network (GAN) with TensorFlow/Keras. The GAN consists of a generator and a discriminator trained on time-series data.
 
 ## Dependencies
